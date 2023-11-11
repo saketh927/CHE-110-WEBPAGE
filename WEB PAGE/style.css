@@ -1,0 +1,39 @@
+#header{
+    text-align: center;
+    padding: 75px;
+    font-size: 50px;
+    text-decoration:underline;
+    border-color: yellowgreen;
+    border-radius: 50px;
+    border-style:solid;
+    border-width: 15px;
+
+}
+
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.img1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%%;
+}
+
+.divblog{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 3cm;
+
+}
+
+.h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+#FAQs{
+    text-align: center;
+}
